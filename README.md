@@ -49,7 +49,7 @@ Below are the results of the training process:
 ![Precision Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Precision-Confidence.png)
 
 ### Recall Curve
-![Recall Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Recall-Confidenc)
+![Recall Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Recall-Confidence.png)
 
 ### Training Results Summary
 ![Results Summary](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Results.png)
