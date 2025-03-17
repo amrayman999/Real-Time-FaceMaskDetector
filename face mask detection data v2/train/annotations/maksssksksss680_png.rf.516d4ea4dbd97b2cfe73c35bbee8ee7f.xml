@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>maksssksksss680_png.rf.516d4ea4dbd97b2cfe73c35bbee8ee7f.jpg</filename>
+	<path>maksssksksss680_png.rf.516d4ea4dbd97b2cfe73c35bbee8ee7f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>17</width>
+		<height>22</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>18</xmax>
+			<ymin>2</ymin>
+			<ymax>23</ymax>
+		</bndbox>
+	</object>
+</annotation>

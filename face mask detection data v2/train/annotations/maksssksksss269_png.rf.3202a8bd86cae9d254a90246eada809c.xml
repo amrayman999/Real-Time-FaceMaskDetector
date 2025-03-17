@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>maksssksksss269_png.rf.3202a8bd86cae9d254a90246eada809c.jpg</filename>
+	<path>maksssksksss269_png.rf.3202a8bd86cae9d254a90246eada809c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>157</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>151</xmax>
+			<ymin>2</ymin>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>
