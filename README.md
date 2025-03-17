@@ -40,19 +40,19 @@ The YOLOv5 model is used for training. The training process involves:
 Below are the results of the training process:
 
 ### F1 Curve
-![F1 Curve](Results Images/F1-Confidence.png)
+![F1 Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/F1-Confidence.png)
 
 ### Precision-Recall Curve
-![PR Curve](Results Images/Precision-Recall.png)
+![PR Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Precision-Recall.png)
 
 ### Precision Curve
-![Precision Curve](Results Images/Precision-Confidence.png)
+![Precision Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Precision-Confidence.png)
 
 ### Recall Curve
-![Recall Curve](Results Images/Recall-Confidence.png)
+![Recall Curve](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Recall-Confidenc)
 
 ### Training Results Summary
-![Results Summary](Results Images/Results.png)
+![Results Summary](https://github.com/amrayman999/Real-Time-FaceMaskDetector/blob/main/Results%20Images/Results.png)
 
 These plots illustrate the performance of the model during training and validation.
 
