@@ -40,19 +40,19 @@ The YOLOv5 model is used for training. The training process involves:
 Below are the results of the training process:
 
 ### F1 Curve
-![F1 Curve](content/yolov5/runs/train/exp2/F1_curve.png)
+![F1 Curve](Results Images/F1-Confidence.png)
 
 ### Precision-Recall Curve
-![PR Curve](content/yolov5/runs/train/exp2/PR_curve.png)
+![PR Curve](Results Images/Precision-Recall.png)
 
 ### Precision Curve
-![Precision Curve](content/yolov5/runs/train/exp2/P_curve.png)
+![Precision Curve](Results Images/Precision-Confidence.png)
 
 ### Recall Curve
-![Recall Curve](content/yolov5/runs/train/exp2/R_curve.png)
+![Recall Curve](Results Images/Recall-Confidence.png)
 
 ### Training Results Summary
-![Results Summary](content/yolov5/runs/train/exp2/results.png)
+![Results Summary](Results Images/Results.png)
 
 These plots illustrate the performance of the model during training and validation.
 
