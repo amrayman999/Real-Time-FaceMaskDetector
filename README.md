@@ -56,6 +56,9 @@ Below are the results of the training process:
 
 These plots illustrate the performance of the model during training and validation.
 
+## Acknowledgments
+
+This Project was Built as the Graduation project for the Diploma "MAster AI & Machine Lwearning" by Amit Learning with score 95%.
 ## Setup and Usage
 
 ### Prerequisites
